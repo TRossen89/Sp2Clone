@@ -16,8 +16,8 @@ POST http://localhost:7170/api/auth/login
 Content-Type: application/json
 
 {
-  "email": "finn@email.dk",
-  "password": "4321"
+  "email": "tobias@email.dk",
+  "password": "1234"
 
 }
 
