@@ -36,4 +36,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/sp2CLONEApp:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/cloneapp:latest
